@@ -18,5 +18,4 @@ Junior web front-end developer.
 
 #### Resume Link --> [Resume](https://github.com/pkiop/pkiop/blob/master/resume.pdf)
 
-### 📫 How to reach me: ...
-Email : pkiopb@gmail.com
+### 📫 How to reach me: pkiopb@gmail.com
