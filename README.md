@@ -18,10 +18,9 @@ Junior web front-end developer.
 [![pkiop's github stats](https://github-readme-stats.vercel.app/api?username=pkiop)](https://github.com/anuraghazra/github-readme-stats)  
 
 ![solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pkiop)
--->
-### 🤔 Looking for a job
-
 #### [Resume](https://github.com/pkiop/pkiop/blob/master/resume.pdf)
+
+-->
 
 ### 📫  How to reach me
 [![monggu.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pkiopb@gmail.com)](mailto:pkiopb@gmail.com) : pkiopb@gmail.com 
